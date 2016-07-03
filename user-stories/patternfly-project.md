@@ -38,3 +38,7 @@ Use case: Bower dependency in npm
   As a developer using npm
   I want to see all inherited dependencies managed using only npm
   So that I can be sure to avoid conflicts in my dependencies
+
+Use case: jspm.io repository
+  As a developer using jspm
+  I want to see patterfnly published into the jspm registry to make it easier to manage the patternfly dependency in my project
