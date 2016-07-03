@@ -41,4 +41,16 @@ Use case: Bower dependency in npm
 
 Use case: jspm.io repository
   As a developer using jspm
-  I want to see patterfnly published into the jspm registry to make it easier to manage the patternfly dependency in my project
+  I want to see patternfly published into the jspm registry
+  So that it is easier to manage the patternfly dependency in my project
+
+Use case: Mobile patterns
+  As a mobile developer
+  I want patternfly to embrace both mobile patterns
+  So that I can use patternfly in my mobile projects
+
+Use case: Mobile+Desktop patterns
+  As a mobile and desktop developer
+  I want patterns that span both mobile and desktop use cases
+  So that I can use the same pattern in both environments
+  For example a list-detail pattern
